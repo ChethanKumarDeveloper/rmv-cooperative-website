@@ -1,0 +1,16 @@
+:root {
+  /* Brand Colors */
+  --primary-color: #1f4aa8;
+  --secondary-color: #f8fafc;
+
+  /* Text */
+  --text-color: #1f2937;
+  --muted-text: #6b7280;
+
+  /* Layout */
+  --max-width: 1100px;
+  --border-radius: 10px;
+
+  /* Typography */
+  --font-main: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
